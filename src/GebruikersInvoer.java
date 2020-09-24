@@ -4,7 +4,7 @@ public class GebruikersInvoer {
 
     public static void main(String[] args) {
 
-        //de variabele keyboard variabele bevat invoer van het toetsenbord.
+        //keyboard variabele bevat invoer van het toetsenbord.
 
         var keyboard = new Scanner(System.in);
 
